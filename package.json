@@ -36,7 +36,7 @@
     "@xterm/xterm": "^5.5.0",
     "@zip.js/zip.js": "^2.7.6",
     "antd": "^5.2.3",
-    "axios": "^1.7.4",
+    "axios": "^1.13.2",
     "bn.js": "^5.2.1",
     "change-case": "^5.4.4",
     "clsx": "^1.2.1",
@@ -66,7 +66,7 @@
     "recoil-persist": "^4.2.0",
     "reconnecting-websocket": "^4.4.0",
     "rollup": "^4.22.4",
-    "serve": "^14.2.4",
+    "serve": "^14.2.5",
     "shiki": "^3.2.1",
     "ts-browser-eval": "^0.0.1",
     "uuid": "^9.0.0",
@@ -115,7 +115,7 @@
     "typescript": "5.5.4",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.0",
+    "webpack-dev-server": "^5.2.2",
     "webpack-merge": "^6.0.1",
     "worker-loader": "^3.0.8"
   }
